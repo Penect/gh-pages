@@ -1,6 +1,6 @@
 # Welcome to Penect
 
-![Penect-Logo](/Logo.png)
+<img src="/Logo.png" alt="Penect Logo" height="250"/>
 
 This Project is developed by [Marko Fediv](https://marko.fediv.me/).
 
